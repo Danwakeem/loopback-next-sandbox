@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Todo": 3,
+    "TodoList": 2
+  },
+  "models": {
+    "TodoList": {
+      "1": "{\"title\":\"Master list\",\"id\":1,\"color\":\"blue\"}"
+    },
+    "Todo": {
+      "1": "{\"id\": 1,\"name\":\"Item 1\": true, \"todoListId\": 1}",
+      "2": "{\"id\": 2,\"name\":\"Item 2\": true, \"todoListId\": 1}"
+    }
+  }
+}
